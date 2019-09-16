@@ -1,6 +1,7 @@
                                         **Seventhsense**
                                         
-                              In Progress - certain parts are completed.
+                           In Progress (60%?) - certain scripts are completed.
+                              needs to be put together as one whole. 
                                         
 
 What is it meant to be?
